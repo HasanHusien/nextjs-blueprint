@@ -7,8 +7,8 @@ import { Josefin_Sans } from "next/font/google";
 export const metadata = {
   // title: 'the wild oasis'
   title: {
-    template: "%s / The Wild Oasis",
-    default: "Welcome / The Wild Oasis",
+    template: "%s / nextjs-blueprint",
+    default: "Welcome / nextjs-blueprint,
   },
   // for SEO
   description: "any description for search engin",
